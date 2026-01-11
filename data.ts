@@ -4,8 +4,8 @@ import { Experience, Accomplishment, Education, ExpertiseCategory } from './type
 export const PERSONAL_INFO = {
   name: "Sathish Vemana",
   title: "Senior Software Developer",
-  email: "svemana@gmail.com",
-  phone: "312.380.6124",
+  email: "2314weew@abc.com",
+  phone: "123.123.1234",
   summary: "A hands-on software developer with 19+ years of development expertise in application programming, web development, and databases using C#, .NET Framework, SQL Server, and more. Highly dedicated, solution-driven pattern programmer with strong skills in OOD/OOA and solving complex problems under tight deadlines."
 };
 
